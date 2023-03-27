@@ -87,7 +87,7 @@ const CreatePost = () => {
         </h1>
         <p className="mt-2 text-[#666e75] text-[14px] max-w [500px]">
           Create imaginative and visually stunning
-          images through by DALL-E AI and share them with the community 
+          images through by DALL-E AI and share them with the community .....
         </p>
       </div>
 
